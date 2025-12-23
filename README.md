@@ -13,7 +13,6 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 ## 🛠️ Projets
 
 ### 1️⃣ HexHex – Jeu en ligne multijoueur
-<img src="hexboard.png" alt="HexHex Screenshot" width="400">
 - **Technos :** JavaScript, HTML, CSS, Node.js  
 - **Description :** Implémentation multijoueur avec gestion des parties en temps réel.  
 - **Lien GitHub :** [HexHex](https://github.com/Buzz30Gotcho/Projet_Hex)
