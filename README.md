@@ -5,7 +5,8 @@
 Je possède une approche full stack, avec un intérêt marqué pour le développement **frontend** et **backend**, en mettant l’accent sur la **qualité du code** et la **maintenabilité**.
 
 - **Frontend :** React, Vue.js, HTML, CSS, JavaScript  
-- **Backend :** Node.js, Supabase (gestion des données, création d’APIs)
+- **Backend :** Node.js, Supabase (gestion des données, création d’APIs)  
+- **Rythme d’alternance :** 1 semaine école / 2 semaines entreprise
 
 Motivé par les **projets concrets**, je souhaite intégrer une équipe technique afin de **contribuer efficacement** au développement d’applications et continuer à monter en compétences.
 
