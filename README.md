@@ -27,11 +27,6 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 
 
 
-### 3️⃣ Plateforme E-commerce “SmartCity”
-- **Technos :** Flutter, Node.js, MongoDB, Figma  
-- **Description :** Refonte de la plateforme, ajout du mode coursier et pipelines CI/CD.  
-- **Lien GitHub :** [SmartCity](https://github.com/Buzz30Gotcho/SmartCity) <!-- Remplace par ton lien réel -->
-
 ---
 
 ## 📚 Compétences
