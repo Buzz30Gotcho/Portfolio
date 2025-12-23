@@ -13,24 +13,22 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 ## 🛠️ Projets
 
 ### 1️⃣ HexHex – Jeu en ligne multijoueur
-![HexHex Screenshot](hexboard.png)
+<img src="hexboard.png" alt="HexHex Screenshot" width="400">
 - **Technos :** JavaScript, HTML, CSS, Node.js  
 - **Description :** Implémentation multijoueur avec gestion des parties en temps réel.  
 - **Lien GitHub :** [HexHex](https://github.com/Buzz30Gotcho/Projet_Hex)
 
 ### 2️⃣ “Qui est-ce ?” – Jeu de société numérique
 <img src="qui_est_ce.jpg" alt="Qui est-ce Screenshot" width="400">
-
 - **Technos :** Python, Tkinter, Pillow  
 - **Description :** Version interactive du jeu classique, avec interface graphique.  
 - **Lien GitHub :** [Qui est-ce ?](https://github.com/Buzz30Gotcho/Projet_Quiestce)
 
-
-### 4️⃣ Site E-commerce pour magasins de vêtements locaux – Projet en cours
+### 3️⃣ Ydays 2025 – Plateforme E-commerce Locale (Projet en cours)
 - **Technos :** React, Node.js, Supabase  
-- **Description :** Site e-commerce destiné aux magasins de vêtements locaux pour présenter et vendre leurs produits en ligne.  
-  - **Fait :** Mise en place du backend avec Supabase, gestion des produits et authentification des utilisateurs, premières pages frontend fonctionnelles  
-  - **À venir :** Ajout du panier, paiement en ligne, interface responsive complète et optimisation UX/UI  
+- **Description :** Site e-commerce pour les magasins de vêtements locaux afin de présenter et vendre leurs produits en ligne.  
+  - **Fait :** Backend avec Supabase, gestion des produits, authentification utilisateurs, premières pages frontend fonctionnelles  
+  - **À venir :** Panier, paiement en ligne, interface responsive complète, optimisation UX/UI  
 - **Lien GitHub :** [E-commerce Local Shops](https://github.com/Buzz30Gotcho/EcommerceLocal) <!-- remplace par ton lien réel -->
 
 ---
