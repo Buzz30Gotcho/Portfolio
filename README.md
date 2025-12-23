@@ -29,8 +29,7 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 - **Description :** Site e-commerce pour les magasins de vêtements locaux afin de présenter et vendre leurs produits en ligne.  
   - **Fait :** Backend avec Supabase, gestion des produits, authentification utilisateurs, premières pages frontend fonctionnelles  
   - **À venir :** Panier, paiement en ligne, interface responsive complète, optimisation UX/UI  
-- **Lien GitHub :** [E-commerce Local Shops](https://github.com/Buzz30Gotcho/EcommerceLocal) <!-- remplace par ton lien réel -->
-
+- **Lien GitHub :** [E-commerce Local Shops](https://github.com/Buzz30Gotcho/Projet-Ydays-2025) <!-- remplace par ton lien réel -->
 ---
 
 ## 📚 Compétences
