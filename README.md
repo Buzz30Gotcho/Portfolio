@@ -1,25 +1,25 @@
 # Portfolio – Sar Frédéric | Développeur Full Stack
 
 ## 👋 À propos de moi
-Étudiant en **Master 1 Développement Full Stack**, je recherche une **alternance dès janvier**.  
-Je possède une approche full stack, avec un intérêt marqué pour le développement **frontend** et **backend**, en mettant l’accent sur la **qualité du code** et la **maintenabilité**.
+Développeur Full-Stack passionné, diplômé d'une licence en informatique, je conçois des **applications web performantes et intuitives**. J’apprécie autant le développement **Front-end** que la conception de logiques serveur **Back-end**. Mes projets académiques m’ont permis de renforcer mes compétences en **bases de données** et en **développement web**.  
+
+Je recherche une **alternance** pour mettre en pratique mes connaissances au sein d’une équipe et contribuer à des projets ambitieux, en **rythme 1 semaine école / 2 semaines entreprise**.
 
 - **Frontend :** React, Vue.js, HTML, CSS, JavaScript  
-- **Backend :** Node.js, Supabase (gestion des données, création d’APIs)  
-- **Rythme d’alternance :** 1 semaine école / 2 semaines entreprise
-
-Motivé par les **projets concrets**, je souhaite intégrer une équipe technique afin de **contribuer efficacement** au développement d’applications et continuer à monter en compétences.
+- **Backend :** Node.js, Supabase (gestion des données, création d’APIs)
 
 ---
 
 ## 🛠️ Projets
 
 ### 1️⃣ HexHex – Jeu en ligne multijoueur
+![HexHex Screenshot](hexboard.png)
 - **Technos :** JavaScript, HTML, CSS, Node.js  
 - **Description :** Implémentation multijoueur avec gestion des parties en temps réel.  
 - **Lien GitHub :** [HexHex](https://github.com/Buzz30Gotcho/Projet_Hex)
 
 ### 2️⃣ “Qui est-ce ?” – Jeu de société numérique
+![Qui est-ce Screenshot](qui_est_ce.jpg)
 - **Technos :** Python, Tkinter, Pillow  
 - **Description :** Version interactive du jeu classique, avec interface graphique.  
 - **Lien GitHub :** [Qui est-ce ?](https://github.com/Buzz30Gotcho/Projet_Quiestce)  <!-- Remplace par ton lien réel -->
