@@ -20,7 +20,6 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 
 ### 2️⃣ “Qui est-ce ?” – Jeu de société numérique
 <img src="qui_est_ce.jpg" alt="Qui est-ce Screenshot" width="400" height="300">
-![Qui est-ce Screenshot](qui_est_ce.jpg)
 - **Technos :** Python, Tkinter, Pillow  
 - **Description :** Version interactive du jeu classique, avec interface graphique.  
 - **Lien GitHub :** [Qui est-ce ?](https://github.com/Buzz30Gotcho/Projet_Quiestce)  <!-- Remplace par ton lien réel -->
