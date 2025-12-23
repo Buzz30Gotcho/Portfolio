@@ -19,6 +19,7 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 - **Lien GitHub :** [HexHex](https://github.com/Buzz30Gotcho/Projet_Hex)
 
 ### 2️⃣ “Qui est-ce ?” – Jeu de société numérique
+<img src="qui_est_ce.jpg" alt="Qui est-ce Screenshot" width="200">
 ![Qui est-ce Screenshot](qui_est_ce.jpg)
 - **Technos :** Python, Tkinter, Pillow  
 - **Description :** Version interactive du jeu classique, avec interface graphique.  
