@@ -26,6 +26,12 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 - **Lien GitHub :** [Qui est-ce ?](https://github.com/Buzz30Gotcho/Projet_Quiestce)
 
 
+### 4️⃣ Site E-commerce pour magasins de vêtements locaux – Projet en cours
+- **Technos :** React, Node.js, Supabase  
+- **Description :** Site e-commerce destiné aux magasins de vêtements locaux pour présenter et vendre leurs produits en ligne.  
+  - **Fait :** Mise en place du backend avec Supabase, gestion des produits et authentification des utilisateurs, premières pages frontend fonctionnelles  
+  - **À venir :** Ajout du panier, paiement en ligne, interface responsive complète et optimisation UX/UI  
+- **Lien GitHub :** [E-commerce Local Shops](https://github.com/Buzz30Gotcho/EcommerceLocal) <!-- remplace par ton lien réel -->
 
 ---
 
