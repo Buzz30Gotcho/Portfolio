@@ -26,7 +26,7 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 
 ### 3️⃣ Ydays 2025 – Plateforme E-commerce Locale (Projet en cours)
 - **Technos :** React, Node.js, Supabase  
-- **Description :** Site e-commerce pour les magasins de vêtements locaux afin de présenter et vendre leurs produits en ligne.  
+- **Description :** Site e-commerce destiné aux **magasins de vêtements, chaussures et accessoires locaux**, permettant de présenter et vendre leurs produits en ligne tout en favorisant le commerce de proximité.  
   - **Fait :** Backend avec Supabase, gestion des produits, authentification utilisateurs, premières pages frontend fonctionnelles  
   - **À venir :** Panier, paiement en ligne, interface responsive complète, optimisation UX/UI  
 - **Lien GitHub :** [E-commerce Local Shops](https://github.com/Buzz30Gotcho/Projet-Ydays-2025) <!-- remplace par ton lien réel -->
