@@ -24,12 +24,15 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 - **Description :** Version interactive du jeu classique, avec interface graphique.  
 - **Lien GitHub :** [Qui est-ce ?](https://github.com/Buzz30Gotcho/Projet_Quiestce)
 
-### 3️⃣ Ydays 2025 – Plateforme E-commerce Locale (Projet en cours)
-- **Technos :** React, Node.js, Supabase  
-- **Description :** Site e-commerce destiné aux **magasins de vêtements, chaussures et accessoires locaux**, permettant de présenter et vendre leurs produits en ligne tout en favorisant le commerce de proximité.  
-  - **Fait :** Backend avec Supabase, gestion des produits, authentification utilisateurs, premières pages frontend fonctionnelles  
-  - **À venir :** Panier, paiement en ligne, interface responsive complète, optimisation UX/UI  
-- **Lien GitHub :** [E-commerce Local Shops](https://github.com/Buzz30Gotcho/Projet-Ydays-2025) <!-- remplace par ton lien réel -->
+### 3️⃣ Ydays 2025 – Plateforme de Livraison Haut de Gamme (Projet en cours)
+
+* **Technos :** React, Node.js, Supabase
+* **Description :** Application de service de **livraison entre commerces de proximité pour les boutiques de luxe**, permettant une gestion rapide et sécurisée des commandes et livraisons.
+
+  * **Fait :** Backend avec Supabase, gestion des commandes, authentification utilisateurs, premières pages frontend fonctionnelles
+  * **À venir :** Système de coursiers optimisé, interface responsive complète, intégration Google Maps, paiement sécurisé
+* **Lien GitHub :** [Livraison Luxe](https://github.com/Buzz30Gotcho/Projet-Ydays-2025) <!-- remplace par ton lien réel -->
+
 ---
 
 ## 📚 Compétences
