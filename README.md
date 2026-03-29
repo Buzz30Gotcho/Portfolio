@@ -31,7 +31,7 @@ Je recherche une **alternance** pour mettre en pratique mes connaissances au sei
 
   * **Fait :** Backend avec Supabase, gestion des commandes, authentification utilisateurs, premières pages frontend fonctionnelles
   * **À venir :** Système de coursiers optimisé, interface responsive complète, intégration Google Maps, paiement sécurisé
-* **Lien GitHub :** [Livraison Luxe](https://github.com/Buzz30Gotcho/Projet-Ydays-2025) <!-- remplace par ton lien réel -->
+* **Lien GitHub :** [Livraison Luxe](https://github.com/Buzz30Gotcho/Ynov_Ydays_2025_e_commerce) <!-- remplace par ton lien réel -->
 
 ---
 
